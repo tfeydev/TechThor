@@ -1,0 +1,55 @@
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+    environment:
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://db:5432/ml_db
+      - SPRING_DATASOURCE_USERNAME=postgres
+      - SPRING_DATASOURCE_PASSWORD=postgres
+    networks:
+      - ml-network
+
+  frontend:
+    build: ./frontend/techthor
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend
+    networks:
+      - ml-network
+
+  db:
+    image: postgres:17
+    container_name: postgres_db
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: ml_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+    networks:
+      - ml-network
+
+  jupyter:
+    image: jupyter/scipy-notebook
+    container_name: jupyter_ml
+    restart: always
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./jupyter:/home/jovyan/work
+    networks:
+      - ml-network
+
+volumes:
+  pg_data:
+
+networks:
+  ml-network:
+    driver: bridge
