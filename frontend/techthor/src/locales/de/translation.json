@@ -1,0 +1,126 @@
+{
+  "nav": {
+    "home": "Home",
+    "tech": "Tech",
+    "math": "Mathematik",
+    "ml": "Machine Learning",
+    "dl": "Deep Learning",
+    "ai": "Künstliche Intelligenz",
+    "dashboard": "Dashboard",
+    "dfh": "DataFusionHUB",
+    "contact": "Kontakt",
+    "about": "Über mich",
+    "legal": "Rechtliches",
+    "legal_info": "Information",
+    "legal_notice": "Impressum",
+    "privacy": "Datenschutz"
+  },
+  "footer": {
+    "copyright": "Alle Rechte vorbehalten."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "message": "Kontaktiere uns gerne für weitere Informationen oder Kooperationen.",
+    "email": "E-mail: contact@techthor.com.br"
+  },
+  "home": {
+    "title": "Wissen bündeln. Daten verbinden. Zukunft gestalten.",
+    "tech": {
+      "title": "Technologien verstehen",
+      "description": "Von Mathematik über Machine Learning bis hin zu Artificial Intelligence – hier findest du fundiertes Wissen."
+    },
+    "datafusionhub": {
+      "title": "DataFusionHUB",
+      "description": "Deine Zentrale zur Datenintegration. API-bereit, ideal zur Weiterverarbeitung von Informationen."
+    },
+    "contact": {
+      "title": "Kontakt",
+      "description": "Du hast Fragen oder Feedback? Nimm direkt Kontakt mit uns auf – wir sind für dich da."
+    }
+  },
+  "tech": {
+    "title": "Entdecke die Tech-Welt",
+    "mathematics": {
+      "title": "Mathematik",
+      "description": "Die Grundlage jeder KI – verständlich und praxisnah erklärt."
+    },
+    "machineLearning": {
+      "title": "Machine Learning",
+      "description": "Algorithmen, Modelle und Anwendungsbeispiele – verständlich aufbereitet."
+    },
+    "deepLearning": {
+      "title": "Deep Learning",
+      "description": "Tiefe neuronale Netze für Bild-, Sprach- und Textverarbeitung."
+    },
+    "artificialIntelligence": {
+      "title": "Artificial Intelligence",
+      "description": "Überblick, Ethik & Innovation – Was macht KI heute und morgen?"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "description": "Hier findest du alle Informationen zu unseren Projekten und Entwicklungen."
+  },
+  "datafusionhub": {
+    "title": "DataFusionHUB",
+    "description": "Willkommen bei deinem zentralen Dashboard.",
+    "dataSourceManager": {
+      "title": "Data Source Manager",
+      "description": "Verwalte und integriere verschiedene Datenquellen – zentral und effizient."
+    },
+    "dataSourceCustomizing": {
+      "title": "Data Source Customizing",
+      "description": "Normalisierung und Bereitstellung der eingestellten Datenquellen."
+    },
+    "analyticsHub": {
+      "title": "Analytics Hub",
+      "description": "Auswertungen, Dashboards und Visualisierungen auf einen Blick."
+    }
+  },
+  "about": {
+    "title": "Über mich",
+    "description1": "Ich bin ein IT-Experte mit langjähriger internationaler Erfahrung in den Bereichen technischer Support, IT-Beratung und Softwareentwicklung. In meiner Laufbahn habe ich mit zahlreichen Unternehmen zusammengearbeitet und dabei ein breites technisches Wissen aufgebaut – von komplexen Systemlandschaften bis hin zu effizientem Infrastrukturmanagement.",
+    "description2": "Besonders vertraut bin ich mit Technologien wie Java, JavaScript, Python, SQL und SAP sowie mit den Betriebssystemen Linux und Windows. Neben der Entwicklung liegt mein Fokus auf der Analyse und Optimierung von Prozessen, um stabile und leistungsfähige Lösungen zu schaffen.",
+    "description3": "Mich faszinieren die Themen, die auch auf dieser Plattform im Bereich <strong>Tech</strong> behandelt werden – etwa Mathematik, Machine Learning oder Künstliche Intelligenz. Gleichzeitig arbeite ich gerne auch an praktischen Aufgaben wie <em>Data Entry</em>, <em>Voice Recording</em> und <em>Übersetzungen</em>.",
+    "description4": "Aus dieser Vielseitigkeit heraus ist das Projekt <strong>DataFusionHUB</strong> entstanden: Eine Plattform, die zunächst statisch beginnt, aber perspektivisch das Ziel verfolgt, verschiedene Datenquellen intelligent zu verknüpfen, zu normalisieren und weiterzuverarbeiten.",
+    "linkedinButton": "Mein LinkedIn-Profil ansehen"
+  },
+  "legal": {
+    "title": "Rechtliches",
+    "description": "Hier findest du alle rechtlichen Informationen zu dieser Webseite."
+  },
+  "privacy": {
+    "title": "Datenschutz",
+    "description": "Dein Datenschutz ist uns wichtig. Lies unsere Datenschutzrichtlinie, um zu verstehen, wie wir deine Daten erheben, nutzen und schützen."
+  },
+  "LegalNotice": {
+    "title": "Impressum",
+    "ResponsiblePerson": "[Name der Firma/Verantwortliche Person]", 
+    "Address": "[Vollständige Adresse]",
+    "Contact": "[E-Mail, Telefonnummer]",
+    "TaxIDVATNumber": "[falls relevant]",
+    "dialogtext": "Hier findest du alle rechtlichen Informationen zum Betreiber dieser Seite.",
+    "dialogbutton": "Details"
+  },
+  "PrivacyPolicy": {
+    "title": "Datenschutzerklärung",
+     "text": "\n<h2>Datenschutzerklärung</h2>\n<p>Ihre Privatsphäre ist uns wichtig. Es ist die Richtlinie von TechThor, Ihre Privatsphäre in Bezug auf alle Informationen zu respektieren, die wir auf der Webseite <strong>TechThor</strong> und anderen von uns betriebenen Webseiten sammeln können.</p>\n\n<h3>Rechtlich bindende Version</h3>\n<p>Bitte beachten Sie, dass die rechtlich bindende Version dieser Datenschutzerklärung die portugiesische Version ist, die mit der <em>Lei Geral de Proteção de Dados (LGPD)</em> des brasilianischen Rechts konform ist. Diese Übersetzung dient nur als Orientierungshilfe.</p>\n\n<h3>Ihre Rechte</h3>\n<p>Sie haben das Recht auf Zugriff, Berichtigung, Löschung, Einschränkung der Verarbeitung und Übertragbarkeit Ihrer personenbezogenen Daten. Sie können auch Ihre Zustimmung widerrufen, sofern dies zutrifft. Kontaktieren Sie uns dazu unter <a href=\"mailto:privacy@techthor.com.br\">privacy@techthor.com.br</a>.</p>\n\n<h3>Kontakt</h3>\n<p>Wenn Sie Fragen zum Umgang mit Ihren Daten haben, wenden Sie sich bitte an uns unter der oben genannten E-Mail-Adresse.</p>\n",
+    "dialogtext": "Informationen zu Ihrem Datenschutz finden Sie hier.",
+    "dialogbutton": "Details"
+  },
+  "legalInformation": {
+    "title": "Rechtliche Informationen",
+    "section1": {
+      "title": "Verantwortliche Stelle",
+      "text": "Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist TechThor. Wir handeln gemäß den geltenden Datenschutzbestimmungen und Gesetzen."
+    },
+    "section2": {
+      "title": "Rechtliche Hinweise",
+      "text": "Diese Website dient der Bereitstellung von Informationen über unsere Dienstleistungen. Wir übernehmen keine Haftung für die Vollständigkeit, Richtigkeit oder Aktualität der Inhalte."
+    },
+    "link": {
+      "legalnotice": "Impressum ansehen",
+      "privacypolicy": "Datenschutzerklärung lesen"
+    }
+  }
+}

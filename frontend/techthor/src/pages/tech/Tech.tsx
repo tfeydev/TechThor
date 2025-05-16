@@ -1,8 +1,12 @@
 // src/pages/Tech.tsx
 import { Link } from "react-router-dom";
 import Layout from "../../components/Layout";
+import { useTranslation } from "react-i18next";
 
 const Tech = () => {
+
+  const { t } = useTranslation();
+
   return (
     <Layout>
     <div className="w-full min-h-screen bg-white">
@@ -10,15 +14,15 @@ const Tech = () => {
       {/* Content */}
       <div className="max-w-7xl mx-auto px-6 py-12">
         <h1 className="text-4xl font-bold text-center text-blue-600 mb-10">
-          Entdecke die Tech-Welt
+          {t("tech.title")}
         </h1>
         <div className="flex gap-6 overflow-x-auto pb-4 scrollbar-thin scrollbar-thumb-blue-400 scrollbar-track-gray-200">
           {/* Card: Mathematik */}
           <Link to="/tech/mathematik" className="min-w-[250px] max-w-xs bg-white rounded-2xl shadow-lg hover:shadow-xl transition-shadow duration-300">
             <div className="p-6">
-              <h2 className="text-xl font-bold text-blue-600">Mathematik</h2>
+              <h2 className="text-xl font-bold text-blue-600">{t("tech.mathematics.title")}</h2>
               <p className="text-sm text-gray-600 mt-2">
-                Die Grundlage jeder KI – verständlich und praxisnah erklärt.
+                {t("tech.mathematics.description")}
               </p>
             </div>
           </Link>
@@ -26,9 +30,9 @@ const Tech = () => {
           {/* Card: ML */}
           <Link to="/tech/ml" className="min-w-[250px] max-w-xs bg-white rounded-2xl shadow-lg hover:shadow-xl transition-shadow duration-300">
             <div className="p-6">
-              <h2 className="text-xl font-bold text-blue-600">Machine Learning</h2>
+              <h2 className="text-xl font-bold text-blue-600">{t("tech.machineLearning.title")}</h2>
               <p className="text-sm text-gray-600 mt-2">
-                Algorithmen, Modelle und Anwendungsbeispiele – verständlich aufbereitet.
+                {t("tech.machineLearning.description")}
               </p>
             </div>
           </Link>
@@ -36,9 +40,9 @@ const Tech = () => {
           {/* Card: DL */}
           <Link to="/tech/dl" className="min-w-[250px] max-w-xs bg-white rounded-2xl shadow-lg hover:shadow-xl transition-shadow duration-300">
             <div className="p-6">
-              <h2 className="text-xl font-bold text-blue-600">Deep Learning</h2>
+              <h2 className="text-xl font-bold text-blue-600">{t("tech.deepLearning.title")}</h2>
               <p className="text-sm text-gray-600 mt-2">
-                Tiefe neuronale Netze für Bild-, Sprach- und Textverarbeitung.
+                {t("tech.deepLearning.description")}
               </p>
             </div>
           </Link>
@@ -46,9 +50,9 @@ const Tech = () => {
           {/* Card: AI */}
           <Link to="/tech/ai" className="min-w-[250px] max-w-xs bg-white rounded-2xl shadow-lg hover:shadow-xl transition-shadow duration-300">
             <div className="p-6">
-              <h2 className="text-xl font-bold text-blue-600">Artificial Intelligence</h2>
+              <h2 className="text-xl font-bold text-blue-600">{t("tech.artificialIntelligence.title")}</h2>
               <p className="text-sm text-gray-600 mt-2">
-                Überblick, Ethik & Innovation – Was macht KI heute und morgen?
+                {t("tech.artificialIntelligence.description")}
               </p>
             </div>
           </Link>

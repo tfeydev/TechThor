@@ -15,6 +15,7 @@ import LegalNotice from "./pages/legal/LegalNotice";
 import PrivacyPolicy from "./pages/legal/PrivacyPolicy";
 import About from "./pages/About";
 import DataPreviewPage from "./pages/dashboard/SourceDialog/DataPreviewDialog";
+import './i18n.ts';
 
 function App() {
   return (

@@ -1,0 +1,127 @@
+{
+  "nav": {
+    "home": "Home",
+    "tech": "Tech",
+    "math": "Mathematics",
+    "ml": "Machine Learning",
+    "dl": "Deep Learning",
+    "ai": "Artificial Intelligence",
+    "dashboard": "Dashboard",
+    "dfh": "DataFusionHUB",
+    "contact": "Contact",
+    "about": "About Me",
+    "legal": "Legal",
+    "legal_info": "Information",
+    "legal_notice": "Legal Notice",
+    "privacy": "Privacy Policy"
+  },
+  "footer": {
+    "copyright": "All rights reserved."
+  },
+  "contact": {
+    "title": "Contact",
+    "message": "Feel free to contact us for more information or collaborations.",
+    "email": "Email: contact@techthor.com.br"
+  },
+  "home": {
+    "title": "Consolidate knowledge. Connect data. Shape the future.",
+    "tech": {
+      "title": "Understand technologies",
+      "description": "From mathematics to machine learning to artificial intelligence – find solid knowledge here."
+    },
+    "datafusionhub": {
+      "title": "DataFusionHUB",
+      "description": "Your hub for data integration. API-ready, ideal for processing information."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Do you have questions or feedback? Get in touch with us directly – we’re here for you."
+    }
+  },
+  "tech": {
+    "title": "Discover the Tech World",
+    "mathematics": {
+      "title": "Mathematics",
+      "description": "The foundation of every AI – explained clearly and practically."
+    },
+    "machineLearning": {
+      "title": "Machine Learning",
+      "description": "Algorithms, models, and use cases – presented in an understandable way."
+    },
+    "deepLearning": {
+      "title": "Deep Learning",
+      "description": "Deep neural networks for image, speech, and text processing."
+    },
+    "artificialIntelligence": {
+      "title": "Artificial Intelligence",
+      "description": "Overview, ethics & innovation – What is AI doing today and tomorrow?"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "description": "Here you will find all information about our projects and developments."
+  },
+  "datafusionhub": {
+    "title": "DataFusionHUB",
+    "description": "Welcome to your central dashboard.",
+    "dataSourceManager": {
+      "title": "Data Source Manager",
+      "description": "Manage and integrate various data sources – centrally and efficiently."
+    },
+    "dataSourceCustomizing": {
+      "title": "Data Source Customizing",
+      "description": "Normalization and provision of configured data sources."
+    },
+    "analyticsHub": {
+      "title": "Analytics Hub",
+      "description": "Reports, dashboards, and visualizations at a glance."
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "description1": "I am an IT expert with many years of international experience in technical support, IT consulting, and software development. Throughout my career, I have worked with numerous companies, building extensive technical expertise – from complex system architectures to efficient infrastructure management.",
+    "description2": "I am particularly skilled in technologies such as Java, JavaScript, Python, SQL, and SAP, as well as operating systems like Linux and Windows. Beyond development, my focus lies on analyzing and optimizing processes to create stable and high-performing solutions.",
+    "description3": "I am fascinated by the topics covered on this platform in the <strong>Tech</strong> section – such as mathematics, machine learning, or artificial intelligence. At the same time, I also enjoy working on practical tasks like <em>Data Entry</em>, <em>Voice Recording</em>, and <em>Translations</em>.",
+    "description4": "This versatility gave rise to the <strong>DataFusionHUB</strong> project: A platform that initially starts as static but aims, in the long term, to intelligently connect, normalize, and process various data sources.",
+    "linkedinButton": "View My LinkedIn Profile"
+  },
+  "legal": {
+    "title": "Legal",
+    "description": "Here you will find all legal information about this website."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "description": "Your privacy is important to us. Read our privacy policy to understand how we collect, use, and protect your information."
+  },
+
+  "LegalNotice": {
+    "title": "Legal Notice",
+    "ResponsiblePerson": "[Full Name/Company Name]", 
+    "Address": "[Full Address]",
+    "Contact": "[Email, Phone Number]",
+    "TaxIDVATNumber": "[if applicable]",
+    "dialogtext": "Here you will find all legal information about the operator of this site.",
+    "dialogbutton": "Details"
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "text": "\n<h2><span style=\"color: rgb(68, 68, 68);\">Privacy Policy</span></h2><p><span style=\"color: rgb(68, 68, 68);\">Your privacy is important to us. It is TechThor's policy to respect your privacy regarding any information we may collect on the <a href=\"\">TechThor</a> website and other sites we own and operate.</span></p><h3><span style=\"color: rgb(68, 68, 68);\">Legally Binding Version</span></h3><p><span style=\"color: rgb(68, 68, 68);\">Please note that the legally binding version of this privacy policy is the Portuguese version, which complies with Brazil's Lei Geral de Proteção de Dados (LGPD). This translation is provided for informational purposes only.</span></p><h3><span style=\"color: rgb(68, 68, 68);\">Your Rights</span></h3><p><span style=\"color: rgb(68, 68, 68);\">You have the right to access, correct, delete, restrict processing, and request portability of your personal data. You may also withdraw your consent, where applicable. To exercise these rights, contact us at <a href=\"mailto:privacy@techthor.com.br\">privacy@techthor.com.br</a>.</span></p>\n",
+    "dialogtext": "Information about your data protection can be found here.",
+    "dialogbutton": "Details"
+  },
+  "legalInformation": {
+    "title": "Legal Information",
+    "section1": {
+      "title": "Responsible Entity",
+      "text": "The responsible entity for data processing on this website is TechThor. We operate in accordance with applicable data protection regulations and laws."
+    },
+    "section2": {
+      "title": "Legal Notice",
+      "text": "This website provides information about our services. We accept no liability for the completeness, accuracy, or timeliness of the content."
+    },
+    "link": {
+      "legalnotice": "View Legal Notice",
+      "privacypolicy": "Read Privacy Policy"
+    }
+  }
+}

@@ -1,18 +1,47 @@
 // src/pages/legal/LegalNotice.tsx
+import React from "react";
+import { useTranslation } from "react-i18next";
 import Layout2 from "../../components/Layout2";
-const LegalNotice = () => (
-  <Layout2>
-    <div className="max-w-4xl mx-auto p-6 text-gray-800">
-      <h1 className="text-3xl font-bold mb-4">Impressum</h1>
-      <p className="mb-4">Angaben gemäß § 5 TMG:</p>
-      <p className="mb-4">
-        Max Mustermann<br />
-        Musterstraße 1<br />
-        12345 Musterstadt
-      </p>
-      <p>E-Mail: info@beispiel.de</p>
-    </div>
-  </Layout2>
-);
+import {
+  Container,
+  Card,
+  CardContent,
+  Typography,
+  Divider,
+} from "@mui/material";
+
+const LegalNotice = () => {
+  const { t } = useTranslation();
+
+  return (
+    <Layout2>
+      <Container maxWidth="md" sx={{ py: 6 }}>
+        <Card elevation={3} sx={{ borderRadius: 4 }}>
+          <CardContent>
+            <Typography variant="h4" component="h1" gutterBottom>
+              {t("LegalNotice.title")}
+            </Typography>
+
+            <Divider sx={{ mb: 4 }} />
+
+            <Typography variant="body1" paragraph>
+              {t("LegalNotice.ResponsiblePerson")}
+              <br />
+              {t("LegalNotice.Address")}
+              <br />
+              {t("LegalNotice.Contact")}
+            </Typography>
+
+            {t("LegalNotice.TaxIDVATNumber") && (
+              <Typography variant="body1" paragraph>
+                {t("LegalNotice.TaxIDVATNumber")}
+              </Typography>
+            )}
+          </CardContent>
+        </Card>
+      </Container>
+    </Layout2>
+  );
+};
 
 export default LegalNotice;

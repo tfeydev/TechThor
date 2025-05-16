@@ -1,0 +1,126 @@
+{
+  "nav": {
+    "home": "Início",
+    "tech": "Tecnologia",
+    "math": "Matemática",
+    "ml": "Aprendizado de Máquina",
+    "dl": "Aprendizado Profundo",
+    "ai": "Inteligência Artificial",
+    "dashboard": "Painel",
+    "dfh": "DataFusionHUB",
+    "contact": "Contato",
+    "about": "Sobre mim",
+    "legal": "Jurídico",
+    "legal_info": "Informação",
+    "legal_notice": "Aviso Legal",
+    "privacy": "Política de Privacidade"
+  },
+  "footer": {
+    "copyright": "Todos os direitos reservados."
+  },
+  "contact": {
+    "title": "Contato",
+    "message": "Entre em contato conosco para mais informações ou colaborações.",
+    "email": "E-mail: contact@techthor.com.br"
+  },
+  "home": {
+    "title": "Concentrar conhecimento. Conectar dados. Moldar o futuro.",
+    "tech": {
+      "title": "Compreender tecnologias",
+      "description": "De matemática a aprendizado de máquina até inteligência artificial – aqui você encontra conhecimento sólido."
+    },
+    "datafusionhub": {
+      "title": "DataFusionHUB",
+      "description": "Seu centro de integração de dados. Pronto para API, ideal para o processamento de informações."
+    },
+    "contact": {
+      "title": "Contato",
+      "description": "Você tem perguntas ou feedback? Entre em contato conosco diretamente – estamos aqui para você."
+    }
+  },
+  "tech": {
+    "title": "Descubra o mundo da tecnologia",
+    "mathematics": {
+      "title": "Matemática",
+      "description": "A base de toda IA – explicada de forma clara e prática."
+    },
+    "machineLearning": {
+      "title": "Aprendizado de Máquina",
+      "description": "Algoritmos, modelos e exemplos de aplicação – apresentados de forma compreensível."
+    },
+    "deepLearning": {
+      "title": "Aprendizado Profundo",
+      "description": "Redes neurais profundas para processamento de imagem, voz e texto."
+    },
+    "artificialIntelligence": {
+      "title": "Inteligência Artificial",
+      "description": "Visão geral, ética e inovação – O que a IA faz hoje e amanhã?"
+    }
+  },
+  "dashboard": {
+    "title": "Painel",
+    "description": "Aqui você encontra todas as informações sobre nossos projetos e desenvolvimentos."
+  },
+  "datafusionhub": {
+    "title": "DataFusionHUB",
+    "description": "Bem-vindo ao seu painel central.",
+    "dataSourceManager": {
+      "title": "Gerenciador de Fontes de Dados",
+      "description": "Gerencie e integre diversas fontes de dados – de forma centralizada e eficiente."
+    },
+    "dataSourceCustomizing": {
+      "title": "Personalização de Fontes de Dados",
+      "description": "Normalização e disponibilização das fontes de dados configuradas."
+    },
+    "analyticsHub": {
+      "title": "Centro de Análises",
+      "description": "Relatórios, painéis e visualizações em um só lugar."
+    }
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "description1": "Sou um especialista em TI com muitos anos de experiência internacional nas áreas de suporte técnico, consultoria de TI e desenvolvimento de software. Ao longo da minha carreira, trabalhei com diversas empresas, construindo um amplo conhecimento técnico – desde arquiteturas de sistemas complexas até a gestão eficiente de infraestrutura.",
+    "description2": "Sou especialmente familiarizado com tecnologias como Java, JavaScript, Python, SQL e SAP, além de sistemas operacionais como Linux e Windows. Além do desenvolvimento, meu foco está na análise e otimização de processos para criar soluções estáveis e de alto desempenho.",
+    "description3": "Sou fascinado pelos temas abordados nesta plataforma na seção de <strong>Tecnologia</strong> – como matemática, aprendizado de máquina ou inteligência artificial. Ao mesmo tempo, também gosto de trabalhar em tarefas práticas como <em>Entrada de Dados</em>, <em>Gravação de Voz</em> e <em>Traduções</em>.",
+    "description4": "Foi dessa versatilidade que surgiu o projeto <strong>DataFusionHUB</strong>: uma plataforma que começa de forma estática, mas tem como objetivo a longo prazo conectar, normalizar e processar de forma inteligente diversas fontes de dados.",
+    "linkedinButton": "Ver Meu Perfil no LinkedIn"
+  },
+  "legal": {
+    "title": "Jurídico",
+    "description": "Informações legais sobre o uso do site e serviços oferecidos."
+  },
+  "privacy": {
+    "title": "Política de Privacidade",
+    "description": "Sua privacidade é importante para nós. Leia nossa política de privacidade para entender como coletamos, usamos e protegemos suas informações."
+  },
+  "LegalNotice": {
+    "title": "Aviso Legal",
+    "ResponsiblePerson": "[Nome Completo/Empresa]", 
+    "Address": "[Endereço completo]",
+    "Contact": "[E-mail, telefone]",
+    "TaxIDVATNumber": "[número, se aplicável]",
+    "dialogtext": "Aqui você encontrará todas as informações legais sobre o operador deste site.",
+    "dialogbutton": "Detalhes"
+  },
+  "PrivacyPolicy": {
+    "title": "Política de Privacidade",
+    "text": "\n<h2><span style=\"color: rgb(68, 68, 68);\">Política de Privacidade</span></h2><p><span style=\"color: rgb(68, 68, 68);\">A sua privacidade é importante para nós. É política do TechThor respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no site <a href=\"\">TechThor</a> e outros sites que possuímos e operamos.</span></p><h3><span style=\"color: rgb(68, 68, 68);\">Coleta e Uso de Dados</span></h3><p><span style=\"color: rgb(68, 68, 68);\">Solicitamos informações pessoais apenas quando realmente precisamos delas para lhe fornecer um serviço. Fazemo-lo por meios justos e legais, com o seu conhecimento e consentimento. Também informamos por que estamos coletando os dados e como serão usados.</span></p><p><span style=\"color: rgb(68, 68, 68);\">Apenas retemos as informações coletadas pelo tempo necessário para fornecer o serviço solicitado. Quando armazenamos dados, protegemos dentro de meios tecnicamente e organizacionalmente aceitáveis para evitar perdas, roubos, acesso, divulgação, cópia, uso ou modificação não autorizados.</span></p><h3><span style=\"color: rgb(68, 68, 68);\">Compartilhamento de Dados</span></h3><p><span style=\"color: rgb(68, 68, 68);\">Não compartilhamos informações de identificação pessoal publicamente ou com terceiros, exceto quando exigido por lei.</span></p><h3><span style=\"color: rgb(68, 68, 68);\">Seus Direitos</span></h3><p><span style=\"color: rgb(68, 68, 68);\">Você tem o direito de acessar, corrigir, excluir ou restringir o uso das suas informações pessoais. Você também tem o direito de solicitar a portabilidade de seus dados e retirar seu consentimento, onde aplicável. Para exercer esses direitos, entre em contato conosco pelo e-mail <a href=\"mailto:privacy@techthor.com.br\">privacy@techthor.com.br</a>.</span></p><h3><span style=\"color: rgb(68, 68, 68);\">Links Externos</span></h3><p><span style=\"color: rgb(68, 68, 68);\">O nosso site pode conter links para sites externos que não são operados por nós. Esteja ciente de que não temos controle sobre o conteúdo ou práticas desses sites e não nos responsabilizamos pelas suas respectivas&nbsp;</span><a href=\"https://politicaprivacidade.com/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"background-color: transparent; color: rgb(68, 68, 68);\">políticas de privacidade</a><span style=\"color: rgb(68, 68, 68);\">.</span></p><h3><span style=\"color: rgb(68, 68, 68);\">Compromisso do Usuário</span></h3><p><span style=\"color: rgb(68, 68, 68);\">O usuário se compromete a:</span></p><ul><li><span style=\"color: rgb(68, 68, 68);\">A) Não se envolver em atividades ilegais ou contrárias à boa fé e à ordem pública;</span></li><li><span style=\"color: rgb(68, 68, 68);\">B) Não difundir propaganda ou conteúdo de natureza racista, xenofóbica, pornografia ilegal, apologia ao terrorismo ou contra os direitos humanos;</span></li><li><span style=\"color: rgb(68, 68, 68);\">C) Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do TechThor, de seus fornecedores ou terceiros.</span></li></ul><h3><span style=\"color: rgb(68, 68, 68);\">Mais Informações</span></h3><p><span style=\"color: rgb(68, 68, 68);\">Se você tiver alguma dúvida sobre como lidamos com dados do usuário e informações pessoais, entre em contato conosco pelo e-mail <a href=\"mailto:privacy@techthor.com.br\">privacy@techthor.com.br</a>.</span></p><p><span style=\"color: rgb(68, 68, 68);\">Esta política está em conformidade com a Lei Geral de Proteção de Dados (LGPD) do Brasil e é efetiva a partir de&nbsp;19 de dezembro de 2024.</span></p>\n",
+    "dialogtext": "Informações sobre sua proteção de dados podem ser encontradas aqui.",
+    "dialogbutton": "Detalhes"
+  },
+  "legalInformation": {
+    "title": "Informações Legais",
+    "section1": {
+      "title": "Entidade Responsável",
+      "text": "A entidade responsável pelo processamento de dados neste site é a TechThor. Atuamos de acordo com as regulamentações e leis de proteção de dados aplicáveis."
+    },
+    "section2": {
+      "title": "Aviso Legal",
+      "text": "Este site fornece informações sobre nossos serviços. Não nos responsabilizamos pela integridade, exatidão ou atualidade do conteúdo."
+    },
+    "link": {
+      "legalnotice": "Ver aviso legal",
+      "privacypolicy": "Leia a política de privacidade"
+    }
+  }
+}
