@@ -11,6 +11,8 @@ import {
   FormControl,
   InputLabel,
 } from "@mui/material";
+import { SelectChangeEvent } from "@mui/material/Select";
+
 
 interface SourceData {
   name: string;
@@ -61,9 +63,10 @@ const SourceDialog: React.FC<SourceDialogProps> = ({
     setFormData((prev) => ({ ...prev, [e.target.name]: e.target.value }));
   };
 
-  const handleSelectChange = (e: React.ChangeEvent<{ name?: string; value: unknown }>) => {
-    setFormData((prev) => ({ ...prev, [e.target.name!]: e.target.value as string }));
-  };
+  const handleSelectChange = (event: SelectChangeEvent) => {
+  const { name, value } = event.target;
+  setFormData((prev) => ({ ...prev, [name!]: value }));
+};
 
   const handleJsonChange = (field: "headers" | "params") => (e: React.ChangeEvent<HTMLInputElement>) => {
     try {
