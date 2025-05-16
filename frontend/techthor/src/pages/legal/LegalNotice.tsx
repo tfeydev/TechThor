@@ -1,5 +1,3 @@
-// src/pages/legal/LegalNotice.tsx
-import React from "react";
 import { useTranslation } from "react-i18next";
 import Layout2 from "../../components/Layout2";
 import {
